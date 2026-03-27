@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andisiwencambaca
 - 👀 I’m an aspiring data analyst
-- 🌱 I’m currently learning and improving my SQL and Python skills
+- 🌱 I’m currently learning and improving my analytics and visualisation skills.
 
 <!---
 andisiwencambaca/andisiwencambaca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
