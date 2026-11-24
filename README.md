@@ -10,6 +10,7 @@ Thank you for taking the time to look through my repos :)
 - Python (pandas, seaborn, matplotlib, scikit-learn)
 - Hypothesis Testing
 - PostgreSQL
+- Tableau
 - GitHub
 
 # Projects
